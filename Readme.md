@@ -14,8 +14,8 @@ Powershell is one of the **most common shells** in modern **Windows systems**, i
 
 
 ## Powershell Manual
-`Get-Help` <command> -To get help
-`Get-Help` -Command -Online -creates online help window through default browser
+`Get-Help` <command> -To get help <br>
+`Get-Help -<command> -Online` -creates online help window through default browser
 
 ## Powershell Commands:
 Powershell primarily operates using cmdlets. Cmdlets (short for command-let) are lightweight, verb-noun convention commands that are used to perform tasks. Examples: `Set-Location`, `Get-Location`, `Get-ChildItem`. #
