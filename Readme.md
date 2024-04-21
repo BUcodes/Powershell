@@ -19,7 +19,7 @@ To get help
 Get-Help <command>
 ```
 
-To creates online help window through default browser
+To create online help window through default browser
 ```
 Get-Help -<command> -Online
 ```
